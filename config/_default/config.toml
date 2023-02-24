@@ -63,7 +63,7 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
-  roadmaps = "/roadmaps/:title/"
+  roadmaps = "/roadmaps/:sections[1:]/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
