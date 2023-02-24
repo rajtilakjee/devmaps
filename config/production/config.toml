@@ -1,0 +1,2 @@
+baseurl = "https://devmaps.netlify.app/"
+canonifyURLs = false
