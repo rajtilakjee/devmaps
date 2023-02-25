@@ -5,11 +5,11 @@ excerpt: "Introducing Doks, a Hugo theme helping you build modern documentation 
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
-weight: 50
+weight: 10
 images: []
 categories: ["News"]
 tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
+contributors: ["Rajtilak Bhattacharjee"]
 pinned: false
 homepage: false
 ---
