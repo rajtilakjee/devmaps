@@ -2,13 +2,19 @@
   name = "Roadmaps"
   weight = 10
   identifier = "roadmaps"
-  url = "/roadmaps/lorem/ipsum/"
+  url = "/roadmaps/skill/python/"
 
 [[roadmaps]]
-  name = "Lorem"
-  weight = 70
-  identifier = "lorem"
-  url = "/roadmaps/lorem/"
+  name = "Skill Based"
+  weight = 110
+  identifier = "skill"
+  url = "/roadmaps/skill/"
+
+[[roadmaps]]
+  name = "Role Based"
+  weight = 20
+  identifier = "role"
+  url = "/roadmaps/role/"
 
 [[main]]
   name = "Blog"
