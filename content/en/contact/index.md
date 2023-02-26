@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-{{< email user="rajtilak.blog" domain="gmail.com" >}}
+Best way to contact us would be through our [Discussion Forums](https://github.com/rajtilakjee/devmaps/discussions) on our GitHub repo.
