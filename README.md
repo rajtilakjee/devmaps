@@ -33,12 +33,13 @@ Whether you're a beginner just starting out or an experienced developer looking 
 # Available Roadmaps
 Currently, this repository contains roadmaps for the following topics:
 
-Front-end Web Development
-Back-end Web Development
-Mobile App Development
-Machine Learning
-Data Science
-DevOps
+ - Front-end Web Development
+ - Back-end Web Development
+ - Mobile App Development
+ - Machine Learning
+ - Data Science
+ - DevOps
+ - and more
 
 Each roadmap includes a list of skills and technologies to learn, along with suggested resources and projects to help you practice and apply what you've learned.
 
