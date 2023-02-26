@@ -2,7 +2,7 @@
   name = "Roadmaps"
   weight = 10
   identifier = "roadmaps"
-  url = "/roadmaps/skill/python/"
+  url = "/roadmaps/introduction/"
 
 [[roadmaps]]
   name = "Skill Based"
