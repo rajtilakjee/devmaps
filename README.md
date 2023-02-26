@@ -26,11 +26,13 @@
 </p>
 
 # Developer Roadmaps
+
 Welcome to the [DevMaps](https://devmaps.netlify.app/)! This is a collection of resources and guides to help developers navigate the often complex and ever-evolving landscape of modern software development.
 
 Whether you're a beginner just starting out or an experienced developer looking to expand your skills, there's something here for everyone. Each roadmap is designed to provide a clear and concise path to mastering a specific technology or skillset, with a focus on practical, hands-on learning.
 
 # Available Roadmaps
+
 Currently, this repository contains roadmaps for the following topics:
 
  - Front-end Web Development
@@ -43,13 +45,26 @@ Currently, this repository contains roadmaps for the following topics:
 
 Each roadmap includes a list of skills and technologies to learn, along with suggested resources and projects to help you practice and apply what you've learned.
 
+# Share with the community
+
+Please consider sharing a post about [DevMaps](https://devmaps.netlify.app/) and the value it provides. It really does help!
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://devmaps.netlify.app/&title=Developer%20roadmaps,%20guides%20and%20other%20resources%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://devmaps.netlify.app/)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://devmaps.netlify.app/&text=Developer%20roadmaps,%20guides%20and%20other%20resources%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://devmaps.netlify.app/)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://devmaps.netlify.app/&title=Developer%20roadmaps,%20guides%20and%20other%20resources%20for%20Developers)
+
 # Contributing
+
 This repository is open to contributions from anyone who wants to help make it better. If you have a suggestion for a new roadmap or want to improve an existing one, feel free to open a pull request or submit an issue.
 
 Before contributing, please make sure to read our [contribution guidelines](CONTRIBUTING.md) to ensure that your changes meet our standards and align with the goals of this repository.
 
 # License
+
 All content in this repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit, as long as you give credit to the original authors and include the license text with your work.
 
 # Acknowledgments
+
 This repository was inspired by the Developer Roadmap project by [Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap). Many thanks to Kamran and all the contributors to that project for their hard work and dedication to helping developers succeed.
