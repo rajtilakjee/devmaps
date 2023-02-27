@@ -1,7 +1,7 @@
 ---
 title: "AI Engineer"
 description: "AI Engineer."
-lead: "AI Engineer."
+lead: ""
 date: 2022-01-25T14:41:39+01:00
 lastmod: 2022-01-25T14:41:39+01:00
 draft: false
@@ -14,6 +14,8 @@ menu:
 weight: 106
 toc: true
 ---
+
+{{< alert text="An AI engineer is responsible for designing, building, and deploying artificial intelligence systems, including machine learning models, natural language processing systems, and computer vision applications. They work with a variety of programming languages and tools to create intelligent systems that can automate tasks, make predictions, and provide insights to businesses and organizations." />}}
 
 ## Syllabus
 

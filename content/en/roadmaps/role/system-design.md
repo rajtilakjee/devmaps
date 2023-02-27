@@ -1,7 +1,7 @@
 ---
 title: "System Design"
 description: "System Design."
-lead: "System Design."
+lead: ""
 date: 2022-01-25T14:41:39+01:00
 lastmod: 2022-01-25T14:41:39+01:00
 draft: false
@@ -14,6 +14,8 @@ menu:
 weight: 107
 toc: true
 ---
+
+{{< alert text="System design is the process of designing the architecture, components, and interfaces of a system to meet specified requirements, while taking into account factors such as scalability, performance, and reliability. The goal is to create a well-organized and efficient system that is easy to maintain and can handle future growth and changes." />}}
 
 ## Syllabus
 

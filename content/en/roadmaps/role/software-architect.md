@@ -1,7 +1,7 @@
 ---
 title: "Software Architect"
 description: "Software Architect."
-lead: "Software Architect."
+lead: ""
 date: 2022-01-25T14:41:39+01:00
 lastmod: 2022-01-25T14:41:39+01:00
 draft: false
@@ -14,6 +14,8 @@ menu:
 weight: 105
 toc: true
 ---
+
+{{< alert text="A software architect is a professional who designs and oversees the development of software systems, ensuring they meet business requirements and are scalable, reliable, and maintainable. They create high-level plans and technical blueprints, communicate with stakeholders, and guide development teams to ensure successful implementation." />}}
 
 ## Syllabus
 

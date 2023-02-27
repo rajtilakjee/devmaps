@@ -1,7 +1,7 @@
 ---
 title: "Cyber Security"
 description: "Cyber Security."
-lead: "Cyber Security."
+lead: ""
 date: 2022-01-25T14:41:39+01:00
 lastmod: 2022-01-25T14:41:39+01:00
 draft: false
@@ -14,6 +14,8 @@ menu:
 weight: 104
 toc: true
 ---
+
+{{< alert text="Cybersecurity is the practice of protecting digital devices, networks, and sensitive information from unauthorized access, theft, or damage, through the use of technology, processes, and policies. It encompasses various areas, including network security, information security, and application security, and is crucial in today's interconnected world to prevent cyber attacks and data breaches." />}}
 
 ## Syllabus
 

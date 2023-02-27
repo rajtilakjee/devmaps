@@ -15,6 +15,8 @@ weight: 100
 toc: true
 ---
 
+{{< alert text="A data scientist is a professional who uses statistical, mathematical, and programming skills to extract insights and knowledge from data, often with the goal of solving business problems or improving decision-making. They work with large datasets, use machine learning algorithms and statistical models, and communicate findings to stakeholders in a clear and actionable manner." />}}
+
 ## Syllabus
 
 ### Introduction to Data Science

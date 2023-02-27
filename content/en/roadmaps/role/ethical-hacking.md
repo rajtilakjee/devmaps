@@ -15,6 +15,8 @@ weight: 102
 toc: true
 ---
 
+{{< alert text="Ethical hacking involves using hacking techniques to identify and address security vulnerabilities in a system, network or application, with the goal of improving overall security and preventing malicious attacks. It is performed with the owner's permission and aims to ensure the confidentiality, integrity, and availability of information and systems." />}}
+
 ## Syllabus
 
 ### Introduction to Ethical Hacking

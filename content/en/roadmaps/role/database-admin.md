@@ -1,7 +1,7 @@
 ---
 title: "Database Administrator"
 description: "Database Administrator."
-lead: "Database Administrator."
+lead: ""
 date: 2022-01-25T14:41:39+01:00
 lastmod: 2022-01-25T14:41:39+01:00
 draft: false
@@ -14,6 +14,8 @@ menu:
 weight: 103
 toc: true
 ---
+
+{{< alert text="A database administrator (DBA) is responsible for managing and maintaining an organization's database systems, ensuring data security, integrity, and availability. They also optimize database performance, troubleshoot issues, and make recommendations for improvements." />}}
 
 ## Syllabus
 

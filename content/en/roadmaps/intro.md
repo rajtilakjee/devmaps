@@ -9,7 +9,7 @@ images: []
 type: docs
 menu:
   roadmaps:
-    parent: "skill"
+    parent: "roadmaps"
     identifier: "intro"
 weight: 100
 toc: true
