@@ -16,6 +16,7 @@ domainTLD = "devmaps.netlify.app"
 titleHome = "DevMaps"
 
 ## Twitter Cards
+schemaEnabled = false
 # twitterSite = "@getdoks"
 # twitterCreator = "@henkverlinde"
 
@@ -87,7 +88,7 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["docs", "guides"]
+  sectionNav = ["docs"]
 
 [options]
   lazySizes = true
@@ -103,12 +104,12 @@ lastMod = false
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
   navbarSticky = true
-  toTopButton = false
+  toTopButton = true
   scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
 
 [menu]
   [menu.section]
     auto = true
-    collapsibleSidebar = true
+    collapsibleSidebar = false
