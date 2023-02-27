@@ -57,14 +57,40 @@ Please consider sharing a post about [DevMaps](https://devmaps.netlify.app/) and
 
 # Contributing
 
-This repository is open to contributions from anyone who wants to help make it better. If you have a suggestion for a new roadmap or want to improve an existing one, feel free to open a pull request or submit an issue.
+There are many ways to contribute to the DevMaps OpenSource project:
 
-Before contributing, please make sure to read our [contribution guidelines](CONTRIBUTING.md) to ensure that your changes meet our standards and align with the goals of this repository.
+ - Give a GitHub star to the project
+ - Create GitHub issues and help us to find bugs and/or request features
+ - Contribute to the source code
+
+Please check our [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+
+# Credits
+
+ - Thanks to [Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) whose roadmap.sh inspired this project
+ - Thanks to [Henk Verlinde](https://github.com/h-enk) for this awesome theme and all the help
+ - Thanks to [Bryce Wray](https://github.com/brycewray) for helping me setup this theme
 
 # License
 
-All content in this repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit, as long as you give credit to the original authors and include the license text with your work.
+MIT license with exceptions. See the [full license](LICENSE) for details.
 
-# Acknowledgments
+Copyright (c) 2023-present, Rajtilak Bhattacharjee
 
-This repository was inspired by the Developer Roadmap project by [Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap). Many thanks to Kamran and all the contributors to that project for their hard work and dedication to helping developers succeed.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
