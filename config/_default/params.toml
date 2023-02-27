@@ -104,7 +104,7 @@ lastMod = false
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = true
+  fullWidth = false
   navbarSticky = true
   toTopButton = true
   scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
