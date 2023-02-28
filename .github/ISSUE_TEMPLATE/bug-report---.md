@@ -22,4 +22,4 @@ What happened.
 
 ### Environment
 
-Paste the information here as shown by `npm run check`
+If bug is related to the website then paste the information here as shown by `npm run check`
