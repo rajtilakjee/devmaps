@@ -1,19 +1,7 @@
 <p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
+  <a href="https://devmaps.netlify.app/">
+    <img alt="DevMaps" src="./assets/images/DevMaps.png"">
   </a>
-</p>
-
-<h1 align="center">
-  DevMaps
-</h1>
-
-<h3 align="center">
-  Open-source Developer Roadmaps
-</h3>
-
-<p align="center">
-  An open-source collection of developer roadmaps prepared using chatGPT.
 </p>
 
 <p align="center">
