@@ -13,6 +13,9 @@
   </a>
 </p>
 
+<!-- [START BADGES] -->
+<!-- [END BADGES] -->
+
 # Developer Roadmaps
 
 Welcome to the [DevMaps](https://devmaps.netlify.app/)! This is a collection of resources and guides to help developers navigate the often complex and ever-evolving landscape of modern software development.
